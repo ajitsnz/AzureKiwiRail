@@ -7,6 +7,7 @@ namespace KiwiRailWebUIAutomation.Tests
         [Test]
         public void Tc1()
         {
+            Assert.AreEqual("Test", "Test1");
 
         }
         [Test]
