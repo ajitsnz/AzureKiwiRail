@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Githut_Projects\\APUiAutomation\\KiwiRailWebUIAutomation\\KiwiRailWebUIAutomation.csproj": {}
+    "C:\\temp\\AzureKiwiRail\\KiwiRailWebUIAutomation\\KiwiRailWebUIAutomation.csproj": {}
   },
   "projects": {
-    "C:\\Githut_Projects\\APUiAutomation\\KiwiRailWebUIAutomation\\KiwiRailWebUIAutomation.csproj": {
+    "C:\\temp\\AzureKiwiRail\\KiwiRailWebUIAutomation\\KiwiRailWebUIAutomation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Githut_Projects\\APUiAutomation\\KiwiRailWebUIAutomation\\KiwiRailWebUIAutomation.csproj",
+        "projectUniqueName": "C:\\temp\\AzureKiwiRail\\KiwiRailWebUIAutomation\\KiwiRailWebUIAutomation.csproj",
         "projectName": "KiwiRailWebUIAutomation",
-        "projectPath": "C:\\Githut_Projects\\APUiAutomation\\KiwiRailWebUIAutomation\\KiwiRailWebUIAutomation.csproj",
+        "projectPath": "C:\\temp\\AzureKiwiRail\\KiwiRailWebUIAutomation\\KiwiRailWebUIAutomation.csproj",
         "packagesPath": "C:\\Users\\ajits\\.nuget\\packages\\",
-        "outputPath": "C:\\Githut_Projects\\APUiAutomation\\KiwiRailWebUIAutomation\\obj\\",
+        "outputPath": "C:\\temp\\AzureKiwiRail\\KiwiRailWebUIAutomation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,7 +69,7 @@
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.15.1, )"
+              "version": "[3.17.0, )"
             },
             "Selenium.Support": {
               "target": "Package",
@@ -81,23 +81,23 @@
             },
             "Selenium.WebDriver.ChromeDriver": {
               "target": "Package",
-              "version": "[81.0.4044.13800, )"
+              "version": "[90.0.4430.2400, )"
             },
             "SpecFlow": {
               "target": "Package",
-              "version": "[3.1.97, )"
+              "version": "[3.8.7, )"
             },
             "SpecFlow.NUnit": {
               "target": "Package",
-              "version": "[3.1.97, )"
+              "version": "[3.8.7, )"
             },
             "SpecFlow.Tools.MsBuild.Generation": {
               "target": "Package",
-              "version": "[3.1.97, )"
+              "version": "[3.8.7, )"
             },
             "nunit": {
               "target": "Package",
-              "version": "[3.12.0, )"
+              "version": "[3.13.2, )"
             }
           },
           "imports": [
