@@ -20,9 +20,3 @@ Scenario Outline: Verify the navigation links menu item route to correct page
 	Examples:
 		| navMenu    | menuItem               | pageHeader             |
 		| What we do | Freight                | Freight                |
-		| What we do | Tourism                | Tourism                |
-		| What we do | Interislander          | Interislander          |
-		| What we do | Network Transformation | Network Transformation |
-		| What we do | Property               | Property               |
-		| What we do | Zero Harm              | Zero Harm              |
-		| What we do | Our assets             | Our assets             |
